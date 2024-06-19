@@ -17,3 +17,41 @@ branch2
 
 
  } 
+
+
+
+### 常用的下载网址 
+textures 
+hdrs 
+models
+#### https://polyhaven.com/
+####   https://polyhaven.com/
+
+
+int  pi =3.14;
+
+void add(int x, int y, int z ){
+
+    int sum = x + y + z;
+    return sum;
+}
+
+
+void mf_uv( uv, rot angle,repeat u , repeat v offset u, offset v,)
+
+
+2、
+StarSkyMaterial skm_inst;
+StarSkyMaterial *skm_dyna = new StarSkyMaterial(); 
+skm_dyna = skm_inst;
+skm_dyna->isshowmoon = 0;
+sky_dyna->ishowmoon = 1;
+sky_dyna->isshowstar = 0;
+sky_dyna->ishowstar = 1;
+
+StarSkyMaterial *skm_dyna = new StarSkyMaterial(); 
+skm_dyna = skm_inst;
+if(skm_dyna!=nullptr)
+    return true;
+else 
+  return false;
